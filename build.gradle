@@ -15,7 +15,6 @@ plugins {
 	
 	id 'checkstyle'
 	
-	id "com.github.spotbugs" version "1.6.9"
 }
 
 // Define the main class for the application
